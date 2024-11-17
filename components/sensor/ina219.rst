@@ -66,7 +66,7 @@ Configuration variables:
 
 
 Actions:
--------
+--------
 
 - ``ina219.sleep``: Put the sensor in sleep mode.
 - ``ina219.wake_up``: Wake the sensor from sleep mode.
