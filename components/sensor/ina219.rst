@@ -65,6 +65,13 @@ Configuration variables:
 - **update_interval** (*Optional*, :ref:`config-time`): The interval to check the sensor. Defaults to ``60s``.
 
 
+Actions:
+-------
+
+- ``ina219.sleep``: Put the sensor in sleep mode.
+- ``ina219.wake_up``: Wake the sensor from sleep mode.
+
+
 See Also
 --------
 
